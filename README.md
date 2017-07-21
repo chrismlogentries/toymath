@@ -3,7 +3,7 @@ ROFLscale enterprise Java arithmetic!
 
 ## What?
 
-A trivial language defined by an ANTLR grammar which emits JVM bytecode.
+A trivial language defined by an [ANTLR grammar](https://github.com/m0wfo/toymath/blob/master/src/main/antlr4/com/mowforth/toymath/Toymath.g4) which emits JVM bytecode.
 
 ### How do I start adding numbers and profit?!
 
